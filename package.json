@@ -1,0 +1,21 @@
+{
+  "name": "facebook-clone-using-tailwind",
+  "version": "1.0.0",
+  "description": "This website is a clone of Facebook desktop using Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build":"vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kameshwar Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.4.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3"
+  }
+}
